@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeterRoussev
-- 👀 I love music, especially prog rock, mad about travelling and new people
+- 👀 I love music, especially prog rock, mad about travelling and nature
 - 🌱 I’m currently learning Automated QA at <a href="https://pragmatic.bg/">Pragmatic</a>
 - 💞️ I’m looking to collaborate on my first QA project
 - 📫 roussevpeter@gmail.com
